@@ -137,7 +137,7 @@ html, body {
 .flex-container {
     background: url("../images/swirly.svg");
     min-width: 100%;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     display: flex;
     align-items: center;
     justify-content: center;
